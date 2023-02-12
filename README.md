@@ -1,9 +1,11 @@
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&duration=1&pause=1000&color=FF3171&center=true&width=435&lines=Mohammed+Nasim+TV+%3A)" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&duration=1&pause=1000&color=FF3171&width=435&lines=Mohammed+Nasim+TV+%3A)" alt="Typing SVG" /></a>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&color=FF3171&width=435&lines=I+am+a+Full+Stack+Developer" alt="Typing SVG" /></a>
 
 
-
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 
 
 
