@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **nasimmohammed260@gmail.com**
 
-- 📄 Know about my experiences [mohammednasimresume.tiiny.site](mohammednasimresume.tiiny.site)
+- 📄 Know about my experiences, Visit "mohammednasimresume.tiiny.site"
 
 <h3 align="left">Languages and Tools:</h3>
 
